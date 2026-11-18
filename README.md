@@ -1,4 +1,4 @@
-# Data-Science-And-Decision-Making-Assignment-2-final
+# Data-Science-And-Decision-Making Stress detection nurses
 A multimodal sensor dataset for continuous stress detection of nurses in a hospital
 
 Sorry the size of dataset was too large so the GitHub was not allowing me to upload dataset here . so here is the drive link where you can get the dataset thankyou
@@ -16,5 +16,5 @@ and in SurveyResults have the Strees level score i merged both the file and i wo
 
 there are two jupyter notebooks are there 
 
-1) 2201580 Data science Decision making assignment 1 ( this file is submitted in assignment 1 part as i had used some visualization from that file so i upload this file )
-2) DDM assignment 2 (This is the assignment 2 file )
+1) 2201580 Data science Decision making stress detection in nurses
+2) DDM stress detection in nurses
